@@ -1,0 +1,55 @@
+body{
+background-image: url(ER78edj.jpg);
+background-size: 100% ;
+background-repeat:no-repeat;
+}
+div
+{
+    height: 150px;
+    border: solid 5px;
+}
+#div_1{
+    background-color: black;
+    background-size: inherit;
+}
+#div_2{
+    background-image: url(images3.jpg);
+    background-size: auto;
+    background-repeat: initial;
+}
+#div_3{
+    background-color: orchid;
+    background-size: inherit;
+}
+h1{
+
+    background:orange;
+    text-align: unset;
+    margin: 20px 10px 20px 10px;
+    padding: 100px;
+}
+p{
+    color: aqua;
+    font-style: ;
+    font-size: 40px;
+    border: 20px dotted forestgreen;
+    
+
+    margin: 20px 10px 5px 15px;
+}
+<!...selectors 1 element 2 class 3 id...>
+h2{ 
+    color: crimson;
+}
+.batch{
+    color: blueviolet;
+    text-align: end;
+    font-size: 70px;
+    border: 10px solid;
+    
+}
+#one{
+    color: chartreuse;
+    text-align: center;
+    font-family: fantasy;
+}
